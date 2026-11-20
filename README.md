@@ -4,7 +4,7 @@ A responsive React + TypeScript frontend for the Movie Ticket Booking System. Cu
 
 
 
-Backend repository: https://github.com/rkaushan/movie-ticket-booking-backend
+Backend repository: https://github.com/Ravindu-Kaushan/movie-ticket-booking-backend
 
 ## Tech Stack
 
@@ -85,7 +85,7 @@ src/
 
 1. Clone the repository
 ```
-   git clone https://github.com/rkaushan/movie-ticket-booking-frontend.git
+   git clone https://github.com/Ravindu-Kaushan/movie-ticket-booking-frontend.git
    cd movie-ticket-booking-frontend
 ```
 2. Install dependencies
